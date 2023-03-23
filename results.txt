@@ -1,2 +1,2 @@
-'Summer Internship 2023' was found in the page True
-'Development QA Engineer (Intern)' was found in the page False
+Was 'Summer Internship 2023' found in the page? - True
+Was 'Development QA Engineer (Intern)' found in the page? - False
